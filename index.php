@@ -14,10 +14,10 @@
   <meta property="og:description" content="Live coronavirus dashboard tracker. See data, maps, social media trends, and learn about prevention measures.">
   <meta property="og:image" content="https://covid-updates.online/img/bg.jpg">
 
-  <meta name="twitter:title" content="ncov2019.live - Coronavirus Tracker">
+  <meta name="twitter:title" content=" Coronavirus Tracker">
   <meta name="twitter:description" content="Live coronavirus dashboard. See data, maps, social media trends, and learn about prevention measures.">
   <meta name="twitter:image" content="https://covid-updates.online/img/bg.jpg">
-  <meta name="twitter:creator" content="@thedanielconlon">
+ 
   <meta name="twitter:card" content="summary_large_image"/>
 	<title>COVID-19 UPDATES</title>
 	
